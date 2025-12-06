@@ -1,5 +1,8 @@
 # Course Notes: Topological Sorting
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHyN-8L6kPw?si=KkNk-KwaWUg5OmQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Introduction
 
 **Topological Sorting** is a way to line up tasks or events in the correct order when some tasks depend on others.  
